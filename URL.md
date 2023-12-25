@@ -3,6 +3,9 @@ https://github.com/suman51284
 https://github.com/EkType/Baloo2
 https://github.com/EkType/Anek
 https://www.nongnu.org/freebangfont/downloads.html
+https://github.com/potasiyam/Siyam-Rupali
+https://github.com/potasiyam/Kalpurush
+https://github.com/amanbd/lalsaluk
 
 
 https://fonts.google.com/specimen/Hind+Siliguri?subset=bengali&noto.script=Beng
@@ -14,3 +17,6 @@ https://github.com/EkType/Anek/releases/download/1.000/Ek-Type-Anek-Variable-1.0
 https://fonts.google.com/specimen/Galada/about?subset=bengali&noto.script=Beng
 https://fonts.google.com/specimen/Atma?subset=bengali&noto.script=Beng
 https://www.nongnu.org/freebangfont/dl/AkaashNormal.ttf
+https://github.com/potasiyam/Siyam-Rupali/archive/f1037dc/Siyam-Rupali-f1037dc.tar.gz
+https://github.com/potasiyam/Kalpurush/archive/212bef1/Kalpurush-212bef1.tar.gz
+https://github.com/amanbd/lalsaluk/archive/9a2e313/lalsaluk-9a2e313.tar.gz
