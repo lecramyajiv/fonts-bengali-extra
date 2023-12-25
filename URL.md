@@ -6,6 +6,13 @@ https://www.nongnu.org/freebangfont/downloads.html
 https://github.com/potasiyam/Siyam-Rupali
 https://github.com/potasiyam/Kalpurush
 https://github.com/amanbd/lalsaluk
+https://github.com/amanbd/kalponik
+https://github.com/kawsarahmedr/SolaimanLipi
+https://github.com/danhhong/Sapa
+https://github.com/danhhong/Siha
+https://github.com/danhhong/Kalaa
+https://github.com/danhhong/Sabala
+https://github.com/danhhong/Chata
 
 
 https://fonts.google.com/specimen/Hind+Siliguri?subset=bengali&noto.script=Beng
@@ -20,3 +27,5 @@ https://www.nongnu.org/freebangfont/dl/AkaashNormal.ttf
 https://github.com/potasiyam/Siyam-Rupali/archive/f1037dc/Siyam-Rupali-f1037dc.tar.gz
 https://github.com/potasiyam/Kalpurush/archive/212bef1/Kalpurush-212bef1.tar.gz
 https://github.com/amanbd/lalsaluk/archive/9a2e313/lalsaluk-9a2e313.tar.gz
+https://github.com/amanbd/kalponik/archive/7a65d0e/kalponik-7a65d0e.tar.gz
+https://github.com/kawsarahmedr/SolaimanLipi/archive/
