@@ -29,3 +29,8 @@ https://github.com/potasiyam/Kalpurush/archive/212bef1/Kalpurush-212bef1.tar.gz
 https://github.com/amanbd/lalsaluk/archive/9a2e313/lalsaluk-9a2e313.tar.gz
 https://github.com/amanbd/kalponik/archive/7a65d0e/kalponik-7a65d0e.tar.gz
 https://github.com/kawsarahmedr/SolaimanLipi/archive/
+https://github.com/danhhong/Sapa/archive/daeac23/Sapa-daeac23.tar.gz
+https://github.com/danhhong/Siha/archive/
+https://github.com/danhhong/Kalaa/archive/
+https://github.com/danhhong/Sabala/archive/
+https://github.com/danhhong/Chata/archive/
