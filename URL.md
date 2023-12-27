@@ -30,7 +30,7 @@ https://github.com/amanbd/lalsaluk/archive/9a2e313/lalsaluk-9a2e313.tar.gz
 https://github.com/amanbd/kalponik/archive/7a65d0e/kalponik-7a65d0e.tar.gz
 https://github.com/kawsarahmedr/SolaimanLipi/archive/
 https://github.com/danhhong/Sapa/archive/daeac23/Sapa-daeac23.tar.gz
-https://github.com/danhhong/Siha/archive/
-https://github.com/danhhong/Kalaa/archive/
-https://github.com/danhhong/Sabala/archive/
-https://github.com/danhhong/Chata/archive/
+https://github.com/danhhong/Siha/archive/f9fdc82/Siha-f9fdc82.tar.gz
+https://github.com/danhhong/Kalaa/archive/9adc782/Kalaa-9adc782.tar.gz
+https://github.com/danhhong/Sabala/archive/c6ddecb/Sabala-c6ddecb.tar.gz
+https://github.com/danhhong/Chata/archive/cbc8a05/Chata-cbc8a05.tar.gz
