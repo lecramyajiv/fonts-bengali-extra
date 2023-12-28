@@ -7,12 +7,12 @@ https://github.com/potasiyam/Siyam-Rupali
 https://github.com/potasiyam/Kalpurush
 https://github.com/amanbd/lalsaluk
 https://github.com/amanbd/kalponik
-https://github.com/kawsarahmedr/SolaimanLipi
 https://github.com/danhhong/Sapa
 https://github.com/danhhong/Siha
 https://github.com/danhhong/Kalaa
 https://github.com/danhhong/Sabala
 https://github.com/danhhong/Chata
+https://www.omicronlab.com/
 
 
 https://fonts.google.com/specimen/Hind+Siliguri?subset=bengali&noto.script=Beng
@@ -34,3 +34,15 @@ https://github.com/danhhong/Siha/archive/f9fdc82/Siha-f9fdc82.tar.gz
 https://github.com/danhhong/Kalaa/archive/9adc782/Kalaa-9adc782.tar.gz
 https://github.com/danhhong/Sabala/archive/c6ddecb/Sabala-c6ddecb.tar.gz
 https://github.com/danhhong/Chata/archive/cbc8a05/Chata-cbc8a05.tar.gz
+https://www.omicronlab.com/download/fonts/AponaLohit.ttf
+https://www.omicronlab.com/download/fonts/SolaimanLipi_20-04-07.ttf
+https://www.omicronlab.com/download/fonts/Bangla.ttf
+https://www.omicronlab.com/download/fonts/AdorshoLipi_20-07-2007.ttf
+https://www.omicronlab.com/download/fonts/BenSen.ttf
+https://www.omicronlab.com/download/fonts/BenSenHandwriting.ttf
+https://www.omicronlab.com/download/fonts/Nikosh.ttf
+https://www.omicronlab.com/download/fonts/NikoshBAN.ttf
+https://www.omicronlab.com/download/fonts/NikoshGrameen.ttf
+https://www.omicronlab.com/download/fonts/NikoshLight.ttf
+https://www.omicronlab.com/download/fonts/NikoshLightBan.ttf
+https://www.omicronlab.com/download/fonts/sagarnormal.ttf
