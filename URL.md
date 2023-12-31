@@ -1,10 +1,10 @@
 # Home page of Fonts
 
-1. Itfoundry (https://github.com/itfoundry/hind-siliguri)
-2. Mina (https://github.com/suman51284)
-3. Ektype (https://github.com/EkType/Baloo2)
-4. Ektype (https://github.com/EkType/Anek)
-5. Free Bangla Font (https://www.nongnu.org/freebangfont/downloads.html)
+1. Itfoundry(https://github.com/itfoundry/hind-siliguri)
+2. Mina(https://github.com/suman51284)
+3. Ektype(https://github.com/EkType/Baloo2)
+4. Ektype(https://github.com/EkType/Anek)
+5. Free Bangla Font(https://www.nongnu.org/freebangfont/downloads.html)
 6. Siyam (https://github.com/potasiyam/Siyam-Rupali)
 7. Kalpurush (https://github.com/potasiyam/Kalpurush)
 8. Lalsaluk (https://github.com/amanbd/lalsaluk)
@@ -18,8 +18,8 @@
 
 # Download URL 
 
-1. itfountry-ttf [https://fonts.google.com/specimen/Hind+Siliguri?subset=bengali&noto.script=Beng]
-2. itfoundry-otf [ https://github.com/itfoundry/hind-siliguri/archive/affb7db/hind-siliguri-affb7db.tar.gz]
+1. itfountry-ttf (https://fonts.google.com/specimen/Hind+Siliguri?subset=bengali&noto.script=Beng)
+2. itfoundry-otf  (https://github.com/itfoundry/hind-siliguri/archive/affb7db/hind-siliguri-affb7db.tar.gz)
 3. Mina [https://github.com/suman51284/Mina/archive/2035084/Mina-2035084.tar.gz]
 4. Ektype [https://github.com/EkType/Baloo2/releases/download/1.640/Baloo2_1.640.zip]
 5. Ektype [https://github.com/EkType/Anek/releases/download/1.000/Ek-Type-Anek-Variable-1.002.zip]
