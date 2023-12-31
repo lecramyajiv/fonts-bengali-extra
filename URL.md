@@ -1,20 +1,20 @@
 # Home page of Fonts
 
-1. Itfoundry [https://github.com/itfoundry/hind-siliguri]
-2. Mina [https://github.com/suman51284]
-3. Ektype [https://github.com/EkType/Baloo2]
-4. Ektype [https://github.com/EkType/Anek]
-5. Free Bangla Font [https://www.nongnu.org/freebangfont/downloads.html]
-6. Siyam [https://github.com/potasiyam/Siyam-Rupali]
-7. Kalpurush [https://github.com/potasiyam/Kalpurush]
-8. Lalsaluk [https://github.com/amanbd/lalsaluk]
-9. Kalponik [https://github.com/amanbd/kalponik]
-10. Sapa [https://github.com/danhhong/Sapa]
-11. Siha [https://github.com/danhhong/Siha]
-12. Kalaa [https://github.com/danhhong/Kalaa]
-13. Sabala [https://github.com/danhhong/Sabala]
-14. Chata [https://github.com/danhhong/Chata]
-15. Omicron [https://www.omicronlab.com/]
+1. Itfoundry (https://github.com/itfoundry/hind-siliguri)
+2. Mina (https://github.com/suman51284)
+3. Ektype (https://github.com/EkType/Baloo2)
+4. Ektype (https://github.com/EkType/Anek)
+5. Free Bangla Font (https://www.nongnu.org/freebangfont/downloads.html)
+6. Siyam (https://github.com/potasiyam/Siyam-Rupali)
+7. Kalpurush (https://github.com/potasiyam/Kalpurush)
+8. Lalsaluk (https://github.com/amanbd/lalsaluk)
+9. Kalponik (https://github.com/amanbd/kalponik)
+10. Sapa (https://github.com/danhhong/Sapa)
+11. Siha (https://github.com/danhhong/Siha)
+12. Kalaa (https://github.com/danhhong/Kalaa)
+13. Sabala (https://github.com/danhhong/Sabala)
+14. Chata (https://github.com/danhhong/Chata)
+15. Omicron (https://www.omicronlab.com)
 
 # Download URL 
 
