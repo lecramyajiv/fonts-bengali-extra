@@ -15,7 +15,7 @@
 13. Sabala [sabala](https://github.com/danhhong/Sabala)
 14. Chata [chata](https://github.com/danhhong/Chata)
 15. Omicron [omicron](https://www.omicronlab.com)
-16. OpenSuse [Akruti](https://software.opensuse.org/download/package?package=indic-fonts&project=openSUSE%3ALeap%3A15.0)
+
 
 # Download URL 
 
@@ -48,4 +48,3 @@
 27. Nikosh Light [nikosh3](https://www.omicronlab.com/download/fonts/NikoshLight.ttf)
 29. Nikosh Light BAN [nikosh4](https://www.omicronlab.com/download/fonts/NikoshLightBan.ttf)
 30. Sagar [sagar](https://www.omicronlab.com/download/fonts/sagarnormal.ttf)
-31. OpenSuse [Akruti](https://download.opensuse.org/repositories/openSUSE:/Leap:/15.0/standard/noarch/indic-fonts-20160512-lp150.1.40.noarch.rpm)
